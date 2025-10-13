@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Sami!
 
-<!--
-**amanSami-0/amanSami-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3rd-year B.Tech student in Computer Science Engineering**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Passionate about coding, technology, and building impactful projects.
+- Well-versed in Python, HTML, CSS, Java, JavaScript, and C# (Unity game development).
+- Experienced Linux user.
+- Currently focusing on Machine Learning and Artificial Intelligence.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, Java, C#, JavaScript, HTML, CSS
+- **Game Development:** Unity (C#)
+- **Operating Systems:** Linux (advanced)
+- **Focus Areas:** Machine Learning, Artificial Intelligence
+
+---
+
+## 🌟 Featured Project
+
+[**Lyra Assistant**](https://github.com/amanSami-0/lyra-assistant)  
+On-device voice assistant powered by the Ollama model for local computation.
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/aman-sami-6a0b372a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+## ⚡ Fun Fact
+
+I love exploring new tech, building AI solutions, and creating games in Unity!
+
+---
+
+_Thanks for visiting my profile!_
